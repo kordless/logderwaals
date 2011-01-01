@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+    <item>{{numfound}}</item> 
+    <max> 
+        <value>{{numfoundlastday}}</value> 
+        <text>{{query}} Last Day</text> 
+    </max> 
+</root>

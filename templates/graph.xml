@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	{% for x in stuff %}
+    <item>{{x.1}}</item> 
+    {% endfor %}
+    <settings> 
+        <axisx>{{from_date}}</axisx> 
+        <axisx>{{until_date}}</axisx> 
+        <colour>990000</colour> 
+    </settings> 
+</root>
